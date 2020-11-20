@@ -72,6 +72,10 @@ const SecondaryButton = styled.button`
     width: 160px;
     height: 39px;
     margin: 32px 0px 56px 0px;
+    
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 22px;
   }
 `;
 

@@ -4,7 +4,6 @@ import styled from "styled-components";
 import facebook from "../../assets/images/icons/facebook.png";
 import instagram from "../../assets/images/icons/instagram.png";
 import twitter from "../../assets/images/icons/twitter.png";
-import figma from "../../assets/images/icons/figma.png";
 
 const Footer = styled.footer`
   display: flex;
