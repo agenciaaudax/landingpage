@@ -124,8 +124,11 @@ function OurWorkComponent() {
           cuidamos da criação dos textos que melhor descrevam seu perfil,
           imagens e todo o layout do site.
         </DescriptionOurWork>
-        <a href="https://forms.gle/y4ySqBC11WrpivBE6">
-        <SecondaryButton>SAIBA MAIS</SecondaryButton>
+        <a
+          style={{ "text-decoration": "none" }}
+          href="https://forms.gle/y4ySqBC11WrpivBE6"
+        >
+          <SecondaryButton>SAIBA MAIS</SecondaryButton>
         </a>
       </InformationsBox>
 
