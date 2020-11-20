@@ -49,6 +49,7 @@ const SecondaryButton = styled.button`
   font-size: 18px;
   line-height: 27px;
   color: #03045e;
+  text-decoration: none;
 
   transition-duration: 0.3s;
   box-shadow: 0 8px 16px 0 rgba(3, 4, 94, 0.2),
@@ -111,7 +112,10 @@ function AboutUsComponent() {
         />
       </CardsBox>
 
-      <a href="https://forms.gle/y4ySqBC11WrpivBE6">
+      <a
+        style={{ "text-decoration": "none" }}
+        href="https://forms.gle/y4ySqBC11WrpivBE6"
+      >
         <SecondaryButton>QUERO UM SITE</SecondaryButton>
       </a>
     </AboutUs>
