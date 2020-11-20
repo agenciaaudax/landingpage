@@ -14,14 +14,11 @@ const AboutUs = styled.div`
   height: 800px;
   width: 100%;
 
-  @media (max-width: 700px)
-  {
-
-width: 375px!important;
-height: 1509px!important;
-margin-bottom: 0px;
-
-}
+  @media (max-width: 700px) {
+    width: 375px !important;
+    height: 1509px !important;
+    margin-bottom: 0px;
+  }
 `;
 
 const Title = styled.h1`
@@ -31,14 +28,12 @@ const Title = styled.h1`
   line-height: 46px;
   text-align: center;
   padding-top: 72px;
-  
-  @media (max-width: 700px)
-  {
+
+  @media (max-width: 700px) {
     text-align: center;
     font-size: 30px;
     padding: 0;
     margin-top: 56px;
-
   }
 `;
 
@@ -69,28 +64,23 @@ const SecondaryButton = styled.button`
     background: #f0f0ff;
   }
 
-  @media (max-width: 700px)
-  {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-width: 160px;
-height: 39px;
-margin: 32px 0px 56px 0px;
-
-}
+  @media (max-width: 700px) {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 160px;
+    height: 39px;
+    margin: 32px 0px 56px 0px;
+  }
 `;
 
 const CardsBox = styled.div`
   display: flex;
 
-
-  @media (max-width: 700px)
-  {
-  display: flex!important;
-flex-direction: column!important;
-
-}
+  @media (max-width: 700px) {
+    display: flex !important;
+    flex-direction: column !important;
+  }
 `;
 
 function AboutUsComponent() {
@@ -120,7 +110,10 @@ function AboutUsComponent() {
           JavaScript com muita técnica e visão comercial."
         />
       </CardsBox>
-      <SecondaryButton>QUERO UM SITE</SecondaryButton>
+
+      <a href="https://forms.gle/y4ySqBC11WrpivBE6">
+        <SecondaryButton>QUERO UM SITE</SecondaryButton>
+      </a>
     </AboutUs>
   );
 }
