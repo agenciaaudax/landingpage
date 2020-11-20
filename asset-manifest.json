@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/landingpage/static/css/main.285c2d55.chunk.css",
-    "main.js": "/landingpage/static/js/main.6a94bae8.chunk.js",
-    "main.js.map": "/landingpage/static/js/main.6a94bae8.chunk.js.map",
-    "runtime-main.js": "/landingpage/static/js/runtime-main.4bd23e60.js",
-    "runtime-main.js.map": "/landingpage/static/js/runtime-main.4bd23e60.js.map",
-    "static/js/2.816d0b35.chunk.js": "/landingpage/static/js/2.816d0b35.chunk.js",
-    "static/js/2.816d0b35.chunk.js.map": "/landingpage/static/js/2.816d0b35.chunk.js.map",
+    "main.js": "/landingpage/static/js/main.4edee572.chunk.js",
+    "main.js.map": "/landingpage/static/js/main.4edee572.chunk.js.map",
+    "runtime-main.js": "/landingpage/static/js/runtime-main.494a572f.js",
+    "runtime-main.js.map": "/landingpage/static/js/runtime-main.494a572f.js.map",
+    "static/js/2.f9cd1a4e.chunk.js": "/landingpage/static/js/2.f9cd1a4e.chunk.js",
+    "static/js/2.f9cd1a4e.chunk.js.map": "/landingpage/static/js/2.f9cd1a4e.chunk.js.map",
     "index.html": "/landingpage/index.html",
-    "precache-manifest.88a0ed4b7eed661e84e55b76b17a61c5.js": "/landingpage/precache-manifest.88a0ed4b7eed661e84e55b76b17a61c5.js",
+    "precache-manifest.9070fd97e01dd6b0f65d8bc0d6bf16ee.js": "/landingpage/precache-manifest.9070fd97e01dd6b0f65d8bc0d6bf16ee.js",
     "service-worker.js": "/landingpage/service-worker.js",
     "static/css/main.285c2d55.chunk.css.map": "/landingpage/static/css/main.285c2d55.chunk.css.map",
-    "static/js/2.816d0b35.chunk.js.LICENSE.txt": "/landingpage/static/js/2.816d0b35.chunk.js.LICENSE.txt",
+    "static/js/2.f9cd1a4e.chunk.js.LICENSE.txt": "/landingpage/static/js/2.f9cd1a4e.chunk.js.LICENSE.txt",
     "static/media/Carol.jpeg": "/landingpage/static/media/Carol.2375fe1d.jpeg",
     "static/media/Chris.jpeg": "/landingpage/static/media/Chris.e2b67daf.jpeg",
     "static/media/Victor.jpg": "/landingpage/static/media/Victor.9d8b120a.jpg",
+    "static/media/audax-logo-white.png": "/landingpage/static/media/audax-logo-white.049df64e.png",
     "static/media/illustration_programmer.png": "/landingpage/static/media/illustration_programmer.f6c6bf7f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bd23e60.js",
-    "static/js/2.816d0b35.chunk.js",
+    "static/js/runtime-main.494a572f.js",
+    "static/js/2.f9cd1a4e.chunk.js",
     "static/css/main.285c2d55.chunk.css",
-    "static/js/main.6a94bae8.chunk.js"
+    "static/js/main.4edee572.chunk.js"
   ]
 }
