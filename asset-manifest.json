@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.285c2d55.chunk.css",
+    "main.js": "/static/js/main.0cadc507.chunk.js",
+    "main.js.map": "/static/js/main.0cadc507.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d053a21.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d053a21.js.map",
+    "static/js/2.badb9d5c.chunk.js": "/static/js/2.badb9d5c.chunk.js",
+    "static/js/2.badb9d5c.chunk.js.map": "/static/js/2.badb9d5c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b4f3d8a43bca6ecc01b6ba2725663499.js": "/precache-manifest.b4f3d8a43bca6ecc01b6ba2725663499.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.285c2d55.chunk.css.map": "/static/css/main.285c2d55.chunk.css.map",
+    "static/js/2.badb9d5c.chunk.js.LICENSE.txt": "/static/js/2.badb9d5c.chunk.js.LICENSE.txt",
+    "static/media/Carol.jpeg": "/static/media/Carol.2375fe1d.jpeg",
+    "static/media/Chris.jpeg": "/static/media/Chris.e2b67daf.jpeg",
+    "static/media/Victor.jpg": "/static/media/Victor.9d8b120a.jpg",
+    "static/media/audax-logo-white.png": "/static/media/audax-logo-white.049df64e.png",
+    "static/media/illustration_programmer.png": "/static/media/illustration_programmer.f6c6bf7f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d053a21.js",
+    "static/js/2.badb9d5c.chunk.js",
+    "static/css/main.285c2d55.chunk.css",
+    "static/js/main.0cadc507.chunk.js"
+  ]
+}
