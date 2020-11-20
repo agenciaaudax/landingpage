@@ -103,14 +103,19 @@ const PrimaryButton = styled.button`
 `;
 
 function BannerSectionComponent() {
+  
   return (
     <BannerSection>
       <Logo src={logo} alt="logo" />
-      <Headline>Criação de sites profissionais para alavancar seus resultados.</Headline>
+      <Headline>
+        Criação de sites profissionais para alavancar seus resultados.
+      </Headline>
       <Subtitle>
         Você vai se surpreender com o que podemos fazer pelo seu negócio.
       </Subtitle>
-      <PrimaryButton>QUERO UM SITE</PrimaryButton>
+      <a href="https://forms.gle/y4ySqBC11WrpivBE6">
+        <PrimaryButton>QUERO UM SITE</PrimaryButton>
+      </a>
     </BannerSection>
   );
 }

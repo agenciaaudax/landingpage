@@ -2,13 +2,15 @@
   "name": "agencia-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cporpino.github.io/agencia-landing-page",
+  "homepage": "https://agenciaaudax.github.io/landingpage",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "history": "^5.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.4",
     "styled-components": "^5.2.0"
   },

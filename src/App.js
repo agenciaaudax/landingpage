@@ -8,7 +8,6 @@ import WhyUsComponent from "./components/WhyUsComponent";
 import AboutUsComponent from "./components/AboutUsComponent";
 import FooterComponent from "./components/FooterComponent";
 
-
 const Root = styled.div`
   width: 100%;
   height: 100vh;
