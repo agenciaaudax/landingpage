@@ -15,7 +15,7 @@ const AboutUs = styled.div`
   width: 100%;
 
   @media (max-width: 700px) {
-    width: 375px !important;
+    /* width: 375px !important; */
     height: 1509px !important;
     margin-bottom: 0px;
   }
@@ -72,7 +72,7 @@ const SecondaryButton = styled.button`
     width: 160px;
     height: 39px;
     margin: 32px 0px 56px 0px;
-    
+
     font-weight: bold;
     font-size: 15px;
     line-height: 22px;
